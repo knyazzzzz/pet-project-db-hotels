@@ -8,7 +8,7 @@
 
 Подробное описание в самом блокноте проекта
 
-- `pet_proj_clients_platforms.ipynb` 
+- [`pet_proj_clients_platforms.ipynb`](https://github.com/knyazzzzz/pet-projects-db-pandas/blob/main/pet_proj_clients_platforms.ipynb) 
 
 Показана работа с основными методами seaborn | matplotlib для визуализации выборок из датафрейма + еще методы pandas
 
